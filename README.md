@@ -50,7 +50,7 @@ Analyze transactional retail data from a fictional Superstore to uncover:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/superstore-sales-analysis.git
+   git clone https://github.com/anusharao131/superstore-sales-analysis.git
 
    Open SQL queries with MySQL Workbench or compatible SQL editor.
 
@@ -61,3 +61,5 @@ Open the Tableau dashboard to explore insights.
 🤝 Credits
 Project by B.Anusha Rao | Data Analyst
 Tools used: SQL, Python, Tableau, Excel
+
+https://public.tableau.com/app/profile/anusha.rao2993/viz/RetailBusinessPerformanceandProfitability/RetailBusinessPerformanceProfitabilityDashboard
