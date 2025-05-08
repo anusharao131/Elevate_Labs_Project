@@ -1,47 +1,8 @@
-# 🌍 Global CO₂ Emissions Tracker by Sector
-
-This project provides a comprehensive dashboard to monitor global CO₂ emissions across **energy**, **transport**, and **industry** sectors, highlighting emission patterns by country, per capita, and per GDP metrics.
-
-## 📊 Objective
-
-To visualize and analyze carbon emissions globally in order to:
-
-- Track emissions by **sector** (Energy, Transport, Industry)
-- Identify **top emitting countries**
-- Assess **CO₂ per capita** and **CO₂ per GDP** metrics
-- Provide insights for **policy intervention and sustainability goals**
-
-## 🛠 Tools Used
-
-- **Python** – for data cleaning and metric calculations  
-- **Excel** – for data structuring  
-- **Tableau** – for interactive dashboard creation  
-
-## 🔍 Key Insights
-
-- **Top Emitters**: China, USA, India are the highest contributors to CO₂ emissions
-- **Sector Analysis**: The **energy sector** accounts for the majority of emissions globally
-- **CO₂ Per Capita**: Fossil-fuel rich nations with smaller populations (e.g., Qatar, Kuwait) show high per capita emissions
-- **CO₂ Per GDP**: Developing nations like **Kuwait** and **North Korea** exhibit higher emissions per unit of economic output
-
-## 📈 Dashboard Features
-
-- Total CO₂ emissions by country  
-- CO₂ emissions trend over time  
-- Sector-wise CO₂ breakdown  
-- Emissions per capita and per GDP  
-- Top 10 highest emitting countries 
-
-## 📄 Deliverables
-
-- ✅ Tableau Dashboard  
-- ✅ [Policy Brief (PDF)]
 
 
-## 📅 Project Date
-- **May 7, 2025**
-## 👩‍💻 Author
-**B. Anusha Rao**  
-Internship at **Elevate Labs (MSME Project)**
-https://public.tableau.com/app/profile/anusha.rao2993/viz/worldwideCO2EmissionsMonitor/WorldwideCOEmissionsMonitor
+
+
+
+
+
 
