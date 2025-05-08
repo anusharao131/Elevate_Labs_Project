@@ -1,6 +1,6 @@
 
 
-# Global CO₂ Emissions Tracker by Sector
+# Global CO₂ Emissions Tracker by Sector[Project-II]
 
 This project visualizes and analyzes global CO₂ emissions data by country and sector to support data-driven climate action.
 
