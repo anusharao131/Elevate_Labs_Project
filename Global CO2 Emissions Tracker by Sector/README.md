@@ -1,6 +1,6 @@
+## Elevate_Labs_Project-II
 
-
-# Global CO₂ Emissions Tracker by Sector-[Project-II]
+# Global CO₂ Emissions Tracker by Sector
 
 This project visualizes and analyzes global CO₂ emissions data by country and sector to support data-driven climate action.
 
